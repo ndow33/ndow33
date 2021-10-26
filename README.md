@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Nate, a software engineer who’s passionate about using data to solve real-world problems. Some of my technical specialties include data wrangling/cleansing, ETL pipeline development, and implementing predictive models using libraries such as pandas, matplotlib, plotly, NumPy, scikit-learn, Keras, and TensorFlow.
+I’m Nate, a solutions architect who’s passionate about using data to solve real-world problems. Some of my technical specialties include data wrangling/cleaning, ETL pipeline development, and implementing predictive models using libraries such as pandas, matplotlib, plotly, NumPy, scikit-learn, Keras, and TensorFlow.
 
 Find me around the web:
 
