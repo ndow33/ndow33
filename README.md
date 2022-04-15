@@ -5,5 +5,5 @@ I’m Nate, a solutions architect who’s passionate about using data to solve r
 Find me around the web:
 
 - Posting on [Medium](https://medium.com/@ndow33)
-- Building out cool water tech with [WETx](https://www.wetx.io/)
+- Building engineering teams with [BairesDev](https://www.bairesdev.com/)
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/nate-dow/)
